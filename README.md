@@ -2,24 +2,24 @@
 MiT FSD Course, Section 1 (JS, CSS, Bootstrap, HTML) -- Exercises: eye, pac-man, map
 The code for this exercise was created by faculty for MiT xPro's Professional Certificate in Coding: Full Stack Development with MERN course (August 2022 cohort). I used Bootstrap for the navigation on the first two pages and modified it.
 
-#####Caroline J. France
+##### Caroline J. France
 Last updated on 29 November 2022
 
-###Project Description
+### Project Description
 Portfolio 1
 
-###How to Locally Run Portfolio 1
+### How to Locally Run Portfolio 1
 From this Portfolio 1 repository, download the following files:
 cjfrance.html
 eyes.js
 styles.css
 Next, open cjfrance.html in a browser window.
 
-###Future Improvements
+### Future Improvements
 I have some redesign ideas for this project.
 * I hard coded the elements with absolute positioning. However, I will adjust the code to make it responsive, so it appears correctly on any screen, instead of only lining up on my MacBook Pro.
 
-###License
+### License
 MIT License
 
 Copyright (c) 2020 John Williams
