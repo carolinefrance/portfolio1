@@ -1,0 +1,30 @@
+    /* CSS GRID for LANDING PAGE, cjfrance.html*/
+    .container {
+      display: grid;
+      grid-template-rows: 20 px 1fr 1fr 1fr;
+      grid-template-columns: 2fr 4fr;
+      gap: 5px;
+      width: 30rem;
+
+      grid-template-areas:
+        'header header header'
+        'sidebar content content'
+        'footer footer footer';
+      width: 1000px;
+    }
+    .header {
+      grid-area: header;
+    }
+    .footer {
+      grid-area: footer;
+      width: 100%;
+      text-align: center;
+    }
+    .sidebar {
+      grid-area: sidebar;
+    }
+    .content {
+      grid-area: content;
+      background-color: rgba(247, 241, 244, 0.6);
+      padding: 20px;
+    }

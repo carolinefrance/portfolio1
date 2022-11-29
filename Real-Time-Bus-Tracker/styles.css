@@ -1,0 +1,21 @@
+/* CSS STYLES: Real-Time-Bus-Tracker */
+body {
+  margin: 0;
+  padding: 0;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+.map-overlay {
+  position: absolute;
+  left: 0;
+  padding: 30px;
+}
+button {
+  font-family: Avenir, sans-serif;
+  font-size: 14px;
+  color: rgba(58,87,91,0.8);
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact CJ</title>
+  <link rel="stylesheet" href="CSS/style-contact.css">
+  <link rel="stylesheet" href="CSS/style-recycle.css">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Belleza&display=swap" rel="stylesheet">
+</head>
+<body>
+<!-- Note: modified from YouTube video: https://www.youtube.com/watch?v=NUeCNvYY_x4 -->
+<div id="menu">
+  <div id="menu-items">
+    <a href="cjfrance.html" class="menu-item" alt="CJ's Bio">Bio</a>
+    <a href="contact.html" class="menu-item" alt="Contact CJ">Contact</a>
+    <a href="projects.html" class="menu-item" alt="Projects">Projects</a>
+  </div>
+  <div id="menu-background-pattern"></div>
+  <div id="menu-background-image"></div>
+</div>
+<div id="bubble1"></div>
+<div id="contact">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/caroline-france-14a71152/" class="lt-txt" alt="CJ's LinkedIn">LinkedIn</a><br>
+    <br>
+    &nbsp;&nbsp;&nbsp;<a href="https://github.com/carolinefrance/carolinefrance.github.io" class="lt-txt" alt="CJ's GitHub">CarolineFrance.github.io</a><br>
+    <br>
+
+    <a href="mailto:CJFranceTalksTech@gmail.com?subject = Feedback&body = Message" class="lt-txt" alt="E-mail">CJFranceTalksTech@gmail.com</a><br>
+    <br>
+
+    &nbsp;&nbsp;<a href="https://www.youtube.com/playlist?list=PLj9-6Kv6ZMK-ZbFLKkHNn6jEoFCwnH0_r" class="lt-txt" alt="CJ's YouTube">YouTube: CJ France Talks Tech</a><br>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/CarolineJeanFr1" class="lt-txt" alt="CarolineJeanFr1">Twitter</a><br>
+</div>
+<div id="bubble2"></div>
+<div id="bubble3"></div>
+<!-- Moving Dot Effect in JavaScript -->
+<script>
+const menu = document.getElementById("menu");
+
+Array.from(document.getElementsByClassName("menu-item"))
+.forEach((item, index) => {
+  item.onmouseover = () => {
+    menu.dataset.activeIndex = index;
+  }
+});
+</script>
+
+</body>
+</html>
