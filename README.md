@@ -5,12 +5,12 @@
 ###### The code for this exercise was created by faculty for MiT xPro's Professional Certificate in Coding: Full Stack Development with MERN course (August 2022 cohort).
 
 ###### Bootstrap navigation on cjfrance.html and projects.html
-* [Navbar text with an inline element](https://getbootstrap.com/docs/5.2/components/navbar/)
-** I modified the .navbar-light default CSS by changing the font size, color, background color, and link styles (highlighted hover)
-** The navbar is used on cjfrance.html and projects.html
+[Navbar text with an inline element](https://getbootstrap.com/docs/5.2/components/navbar/)
+* I modified the .navbar-light default CSS by changing the font size, color, background color, and link styles (highlighted hover)
+* The navbar is used on cjfrance.html and projects.html
 
-* [Cards](https://getbootstrap.com/docs/5.2/components/card/)
-** The cards are used on projects.html
+[Cards](https://getbootstrap.com/docs/5.2/components/card/)
+* The cards are used on projects.html
 
 ##### Caroline J. France
 Last updated on 29 November 2022
