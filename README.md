@@ -16,11 +16,12 @@ Last updated on 29 November 2022
   * The cards are used on projects.html
 
 ### Project Description
-###### Portfolio 1 is an front-end web development assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML). The source code for the three exercises (linked on projects.html) was provided by the MiT course designers. However, I modified some of the CSS on these pages.
-###### I created the files in this repository using JS, CSS, Bootstrap, HTML.
+Portfolio 1 is an front-end web development assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML). The source code for the three exercises (linked on projects.html) was provided by the MiT course designers. However, I modified some of the CSS on these pages.   
+
+I created the files in this repository using JS, CSS, Bootstrap, HTML.   
 
 ### How to Locally Run Portfolio 1
-###### From this Portfolio 1 repository, download the following files:
+From this Portfolio 1 repository, download the following files:   
 * cjfrance.html
 * contact.html
 * projects.html
@@ -38,10 +39,10 @@ Last updated on 29 November 2022
 * IMG/PacMen-Exercise.png
 * IMG/Real-Time-Bus-Tracker.png
 
-###### Next, once the files are downloaded, open cjfrance.html in a browser window.
+Next, once the files are downloaded, open cjfrance.html in a browser window.   
 
 ### Future Improvements
-###### I have some redesign ideas for this project.
+I have some redesign ideas for this project.   
 * I hard coded some elements with absolute positioning. However, I will adjust the code to make it responsive, so it appears correctly on any screen, instead of only lining up on my MacBook Pro.
 
 ### License
