@@ -1,4 +1,4 @@
-Caroline J. France 
+Caroline J. France  
 Last updated on 29 November 2022
 # portfolio1
 * Created as an assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML)
