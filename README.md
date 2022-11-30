@@ -7,11 +7,11 @@
 
 [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) navbar and cards
 * [Navbar text with an inline element](https://getbootstrap.com/docs/5.2/components/navbar/)
-* I modified the .navbar-light default CSS by changing the font size, color, background color, and link styles (highlighted hover)
-* The navbar is used on cjfrance.html and projects.html
+  * I modified the .navbar-light default CSS by changing the font size, color, background color, and link styles (highlighted hover)
+  * The navbar is used on cjfrance.html and projects.html
 
 * [Cards](https://getbootstrap.com/docs/5.2/components/card/)
-* The cards are used on projects.html
+  * The cards are used on projects.html
 
 ##### Caroline J. France
 Last updated on 29 November 2022
