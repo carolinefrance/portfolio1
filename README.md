@@ -1,3 +1,5 @@
+Caroline J. France
+Last updated on 29 November 2022
 # portfolio1
 * Created as an assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML)
 * Exercises on Separate Repositories: Eye-Exercise, PacMen-Exercise, Real-Time-Bus-Tracker
@@ -12,9 +14,6 @@
 
 * [Cards](https://getbootstrap.com/docs/5.2/components/card/)
   * The cards are used on projects.html
-
-##### Caroline J. France
-Last updated on 29 November 2022
 
 ### Project Description
 ###### Portfolio 1 is an front-end web development assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML). The source code for the three exercises (linked on projects.html) was provided by the MiT course designers. However, I modified some of the CSS on these pages.
