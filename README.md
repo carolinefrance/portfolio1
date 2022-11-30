@@ -1,23 +1,48 @@
 # portfolio1
-MiT FSD Course, Section 1 (JS, CSS, Bootstrap, HTML) -- Exercises: eye, pac-man, map
-The code for this exercise was created by faculty for MiT xPro's Professional Certificate in Coding: Full Stack Development with MERN course (August 2022 cohort). I used Bootstrap for the navigation on the first two pages and modified it.
+###### Created as an assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML)
+######  Exercises: eye, pac-man, map
+##### SOURCE CODE
+###### The code for this exercise was created by faculty for MiT xPro's Professional Certificate in Coding: Full Stack Development with MERN course (August 2022 cohort).
+
+###### Bootstrap navigation on cjfrance.html and projects.html
+* [Navbar text with an inline element](https://getbootstrap.com/docs/5.2/components/navbar/)
+** I modified the .navbar-light default CSS by changing the font size, color, background color, and link styles (highlighted hover)
+** The navbar is used on cjfrance.html and projects.html
+
+* [Cards](https://getbootstrap.com/docs/5.2/components/card/)
+** The cards are used on projects.html
 
 ##### Caroline J. France
 Last updated on 29 November 2022
 
 ### Project Description
-Portfolio 1
+###### Portfolio 1 is an front-end web development assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML). The source code for the three exercises (linked on projects.html) was provided by the MiT course designers. However, I modified some of the CSS on these pages.
+###### I created the files in this repository using JS, CSS, Bootstrap, HTML.
 
 ### How to Locally Run Portfolio 1
-From this Portfolio 1 repository, download the following files:
-cjfrance.html
-eyes.js
-styles.css
-Next, open cjfrance.html in a browser window.
+###### From this Portfolio 1 repository, download the following files:
+* cjfrance.html
+* contact.html
+* projects.html
+* CSS/style-contact.css
+* CSS/style-grid-landing.css
+* CSS/style-newBSnav.css
+* CSS/style-recycle.css
+** The style-recycle.css styles are used on multiple pages.
+* IMG/CJF-AFSDJ.png
+* IMG/CjFrance.jpg
+* IMG/CJwater.jpg
+* IMG/Eye-Exercise.png
+* IMG/icon-github-green.png
+* IMG/icon-linkedin-green.png
+* IMG/PacMen-Exercise.png
+* IMG/Real-Time-Bus-Tracker.png
+
+###### Next, once the files are downloaded, open cjfrance.html in a browser window.
 
 ### Future Improvements
-I have some redesign ideas for this project.
-* I hard coded the elements with absolute positioning. However, I will adjust the code to make it responsive, so it appears correctly on any screen, instead of only lining up on my MacBook Pro.
+###### I have some redesign ideas for this project.
+* I hard coded some elements with absolute positioning. However, I will adjust the code to make it responsive, so it appears correctly on any screen, instead of only lining up on my MacBook Pro.
 
 ### License
 MIT License
