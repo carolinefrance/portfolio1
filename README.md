@@ -1,6 +1,6 @@
 # portfolio1
-###### Created as an assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML)
-######  Exercises on Separate Repositories: Eye-Exercise, PacMen-Exercise, Real-Time-Bus-Tracker
+* Created as an assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML)
+* Exercises on Separate Repositories: Eye-Exercise, PacMen-Exercise, Real-Time-Bus-Tracker
 #### SOURCE CODE
 ###### [MiT xPro's Professional Certificate in Coding: Full Stack Development with MERN](https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1/) The code for exercises linked on projects.html was created by MiT faculty designers of this course (August 2022 cohort).
 
