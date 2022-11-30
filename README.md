@@ -1,7 +1,7 @@
 # portfolio1
 ###### Created as an assignment for MiT's FSD Course, Section 1 (JS, CSS, Bootstrap, HTML)
-######  Exercises: eye, pac-man, map
-##### SOURCE CODE
+######  Exercises on Separate Repositories: Eye-Exercise, PacMen-Exercise, Real-Time-Bus-Tracker
+#### SOURCE CODE
 ###### The code for this exercise was created by faculty for MiT xPro's Professional Certificate in Coding: Full Stack Development with MERN course (August 2022 cohort).
 
 ###### Bootstrap navigation on cjfrance.html and projects.html
